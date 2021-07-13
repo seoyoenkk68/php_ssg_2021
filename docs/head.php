@@ -36,31 +36,10 @@
             <a href="./" class="flex h-full items-center px-4">홈</a>
           </li>
           <li>
-            <a href="./portfolio.html" class="flex h-full items-center px-4">포트폴리오</a>
+            <a href="./portfolio.php" class="flex h-full items-center px-4">포트폴리오</a>
           </li>
         </ul>
       </div>
     </header>
 
     <main>
-      <section class="section-1">
-        <div class="container mx-auto">
-          포트폴리오1
-        </div>
-      </section>
-
-      <section class="section-2">
-        <div class="container mx-auto">
-          포트폴리오2
-        </div>
-      </section>
-    </main>
-
-    <footer class="bg-red-100 text-center justify-center h-12 flex items-center">
-      푸터
-    </footer>
-  </div>
-
-</body>
-
-</html>
